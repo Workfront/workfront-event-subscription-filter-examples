@@ -1,0 +1,18 @@
+{
+  "eventType": "UPDATE",
+  "subscriptionId": "8a0d830e6037d81a016037dc5c190000",
+  "eventTime": {
+    "nano": 696000000,
+    "epochSecond": 1515796787
+  },
+  "newState": {
+    "customerID": "37525422582427800844446638428357",
+    "homeGroupID": "xAkvgNqQiiUK5rt9H7w1Q6VnZ9Ilc5gb",
+    "homeTeamID": "nGRbMvdrr5frNN5kkUOLrtg51K8CYkrE"
+  },
+  "oldState": {
+    "customerID": "37525422582427800844446638428357",
+    "homeGroupID": "xAkvgNqQiiUK5rt9H7w1Q6VnZ9Ilc5gb",
+    "homeTeamID": "IQMaFu56aI0LUwPYHgFDu37jryNWEiZe"
+  }
+}
